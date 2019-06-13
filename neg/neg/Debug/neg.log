@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  ppm.cpp
+d:\c++1sta\neg\neg\ppm.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\c++1sta\neg\neg\ppm.cpp(101): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  neg.cpp
+d:\c++1sta\neg\neg\neg.cpp(19): warning C4101: 'gf': unreferenced local variable
+  Image.cpp
+d:\c++1sta\neg\neg\image.cpp(29): warning C4018: '<': signed/unsigned mismatch
+d:\c++1sta\neg\neg\image.cpp(53): warning C4018: '<': signed/unsigned mismatch
+d:\c++1sta\neg\neg\image.cpp(54): warning C4018: '<=': signed/unsigned mismatch
+d:\c++1sta\neg\neg\image.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\c++1sta\neg\neg\image.cpp(70): warning C4018: '<': signed/unsigned mismatch
+d:\c++1sta\neg\neg\image.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\c++1sta\neg\neg\image.cpp(85): warning C4018: '<': signed/unsigned mismatch
+d:\c++1sta\neg\neg\image.cpp(81): warning C4101: 'q': unreferenced local variable
+d:\c++1sta\neg\neg\image.cpp(100): warning C4018: '<': signed/unsigned mismatch
+d:\c++1sta\neg\neg\image.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : D:\C++1stA\neg\Debug\neg.exe not found or not built by the last incremental link; performing full link
+  neg.vcxproj -> D:\C++1stA\neg\Debug\neg.exe
+  neg.vcxproj -> D:\C++1stA\neg\Debug\neg.pdb (Full PDB)
