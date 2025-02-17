@@ -1,4 +1,4 @@
-# Negative_Image_Project
+# Negative-Image-Project
 
 This project has developed with pure C++. <br>
 The aim is to understand how C++ works. <br> <br>
